@@ -4,7 +4,7 @@ Calculadora no console
 
 <div align="center">
 
-  <a href=""><img src="https://github.com/Zezinhojun/Calculadora.js/blob/main/midia/Screen-Recording-_03-11-2022-21-59-49_.gif?raw=true"></a>
+  <a href="https://zezinhojun.github.io/Calculadora.js/"><img src="https://github.com/Zezinhojun/Calculadora.js/blob/main/midia/Screen-Recording-_03-11-2022-21-59-49_.gif?raw=true"></a>
 </div>
 
 ---
