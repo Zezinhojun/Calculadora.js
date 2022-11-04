@@ -72,3 +72,5 @@ function calculadora() {
   }
 }
 calculadora()
+
+// Esté é um comentario padrão
